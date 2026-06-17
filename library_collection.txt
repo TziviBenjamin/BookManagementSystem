@@ -1,0 +1,6 @@
+The Alchemist | Paulo Coelho | 1988 | 0 | 2
+Titanic | J.K. Rowling | 1997 | 0 | 1
+Clean Code | Robert Martin | 2008 | 1 | 2
+The Very Hungry Caterpillar | Eric Carle | 1969 | 3 | 0
+Where the Wild Things Are | Maurice Sendak | 1963 | 3 | 1
+Time | 5 | 2023-05 | Partners: CNN
